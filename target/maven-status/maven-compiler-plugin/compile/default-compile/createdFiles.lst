@@ -1,0 +1,11 @@
+com/chess/controller/ChessController.class
+com/chess/engine/ChessEngine.class
+com/chess/service/GameService$GameData.class
+com/chess/model/Color.class
+com/chess/service/GameService.class
+com/chess/model/Piece.class
+com/chess/ChessApplication.class
+com/chess/model/GameState.class
+com/chess/engine/ChessEngine$1.class
+com/chess/model/PieceType.class
+com/chess/model/Move.class
